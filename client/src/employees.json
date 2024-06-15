@@ -1,0 +1,46 @@
+{
+    "employees": [
+        {
+            "id": "1",
+            "position": "President",
+            "name": "Ning Hsu",
+            "email": ""
+        },
+        {
+            "id": "2",
+            "position": "Head Accounts",
+            "name": "Christy Brown",
+            "email": "christydalton@triumph-sav.com"
+        },
+        {
+            "id": "3",
+            "position": "Local Dispatcher",
+            "name": "Jeff Willow",
+            "email": "jeffreywillow@triumph-sav.com"
+        },
+        {
+            "id": "4",
+            "position": "Over The Road Dispatcher",
+            "name": "Heather Lindstrom",
+            "email": "hlindstrom@triumph-sav.com"
+        },
+        {
+            "id": "5",
+            "position": "Accounts Receivable",
+            "name": "Tori Hodges",
+            "email": "torihodges@triumph-sav.com"
+        },
+        {
+            "id": "6",
+            "position": "Terminal Manager",
+            "name": "Tina Lee",
+            "email": "tlee@triumph-sav.com"
+        },
+        {
+            "id": "7",
+            "position": "Coordinator",
+            "name": "Jason Hsu",
+            "email": "jason@triumph-sav.com"
+        }
+    ]
+}
