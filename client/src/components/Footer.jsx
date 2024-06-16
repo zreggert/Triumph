@@ -10,7 +10,7 @@ const Footer = () => {
                     <img src='' alt='triump logo'/>
                 </div>
                 <div>
-                    <ul className="flex flex-col items-center gap-2 md:flex-row">
+                    <ul className="flex flex-col items-start gap-2 md:flex-row">
                         <li className='font-bold text-slate-100 hover:text-green-500 lg:text-lg md:text-base sm:text-xs'>
                             <Link to='/'>Home</Link>
                         </li>

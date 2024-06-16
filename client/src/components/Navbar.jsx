@@ -30,9 +30,6 @@ const Navbar = () => {
                     <li className='font-bold text-slate-100 hover:text-green-500'>
                         <Link to='apply'>Apply to Drive</Link>
                     </li>
-                    <li className='font-bold text-slate-100 hover:text-green-500'>
-                        <Link to='employees'>Employees</Link>
-                    </li>
                 </ul>
                 <div className='hidden lg:flex'><RequestButton/></div>
                 <div onClick={handleNav} className='block lg:hidden'>
@@ -51,9 +48,6 @@ const Navbar = () => {
                     </li>
                     <li className='p-3 font-bold text-slate-100 hover:text-green-500' onClick={handleNav}>
                         <Link to='apply'>Apply to Drive</Link>
-                    </li>
-                    <li className='p-3 font-bold text-slate-100 hover:text-green-500' onClick={handleNav}>
-                        <Link to='employees'>Employees</Link>
                     </li>
                 </ul>
         </div>

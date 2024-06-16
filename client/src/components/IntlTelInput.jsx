@@ -1,9 +1,8 @@
-import intlTelInput from 'intl-tel-input'
-
-const IntlTelInput = () => {
-  return (
-    <div>{intlTelInput}</div>
-  )
-}
-
-export default IntlTelInput
+{/* <IntlTelInput
+            className="bg-slate-100 p-3 rounded-lg"
+            initOptions={{
+            initialCountry: "us",
+            utilsScript: "path/to/utils.js",
+            }}
+            />
+ */}
